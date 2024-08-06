@@ -1,0 +1,1 @@
+var json_ThorongLaPass_12 = {"type":"FeatureCollection","name":"ThorongLaPass_12","features":[{"type":"Feature","properties":{"Pass_Name":"Thorong- la Pass","Elevation":5146.0,"Province":"Gandaki"},"geometry":{"type":"Point","coordinates":[494010.605600000882987,3186063.242900001816452]}}]}
